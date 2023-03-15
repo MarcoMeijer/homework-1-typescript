@@ -1,0 +1,33 @@
+{
+  "id": "tt0099685",
+  "actors": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+  "desc": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+  "directors": ["Martin Scorsese"],
+  "genre": ["Biography", "Crime", "Drama"],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "imdb_url": "/title/tt0099685/",
+  "name": "Goodfellas",
+  "rating": 8.7,
+  "year": 1990,
+  "oscars": [
+    {
+      "oscar": "Best Actor in a Supporting Role",
+      "name": "Joe Pesci",
+      "year": "1991"
+    }
+  ],
+  "relatedMovies": [
+    {
+      "id": 1,
+      "name": "The Godfather"
+    },
+    {
+      "id": 2,
+      "name": "The Godfather Part II"
+    },
+    {
+      "id": 3,
+      "name": "Goodfellas"
+    }
+  ]
+}
